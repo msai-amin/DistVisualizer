@@ -1,0 +1,2 @@
+# DistVisualizer
+Interactive Teaching Tool 
